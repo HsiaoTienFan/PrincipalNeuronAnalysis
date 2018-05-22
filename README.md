@@ -6,7 +6,7 @@ These files are used in conjunction with the Simple and very simple Matlab toolb
 
 The paper published to these dindings could not be uploaded for copyright reasons, but the abstract is below
 
-Performance optimization of echo state networks through principal neuron reinforcement
+# Performance optimization of echo state networks through principal neuron reinforcement
 
 2017 International Joint Conference on Neural Networks (IJCNN)
 
